@@ -8,7 +8,7 @@
 
 | reading number | links |
 | -------------- | ----- |
-| _class-01_  |  [inrtoductory html and javascript]() |
+| _class-01_  |  [inrtoductory html and javascript](https://ibrahimkad.github.io/reading-notes/class-01) |
 | _class-02_  |  []() |
 | _class-03_  |  []() |
 | _class-04_  |  []() |

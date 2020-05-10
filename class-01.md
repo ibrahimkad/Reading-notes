@@ -1,4 +1,4 @@
-# HTML describees the structure of pages 
+# HTML describes the structure of pages 
 **Here an example of html code**
 
 <html>
