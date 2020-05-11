@@ -15,7 +15,7 @@ definitions for each of those terms.
 
 **Examples for Lists :**
 
-<!-- <html>
+ <html>
 <head>
 <title>Lists</title>
 </head>
@@ -43,7 +43,7 @@ heat (it will continue to cook on the plate
 until served)</li>
 </ol>
 </body>
-</html> -->
+</html> 
 
 ## CSS specification
 
@@ -88,7 +88,7 @@ _There are three types of loop: for, while, and do ... while. Each repeats a set
 
 **example**:
 
-<!-- var table = 3;
+ var table = 3;
 var operator= 'addition';
 var i = 1;
 var msg = ' ' ;
@@ -105,7 +105,7 @@ i++;
 }
 II Write the message into the page
 var el = document.getElementByid{'bl ackboard');
-el .innerHTML = msg; -->
+el .innerHTML = msg;
 
 
 
