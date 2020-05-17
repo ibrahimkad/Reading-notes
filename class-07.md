@@ -8,7 +8,7 @@ _A table represents information in a grid format. Examples of tables include fin
 
 **example**
 "<table>
-<tr>// table row
+<tr>= table row
 <td>15</td>// table data
 <td>15</td>
 <td>30</td>
@@ -25,7 +25,7 @@ _A table represents information in a grid format. Examples of tables include fin
 </tr>
 </table>"
 
-<th>//The <th> element is used just like the <td> element but its purpose is to represent the heading for either a column or a row. (The th stands for table heading.)
+<th>The <th> element is used just like the <td> element but its purpose is to represent the heading for either a column or a row. (The th stands for table heading.)
 
 
 
